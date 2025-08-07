@@ -40,7 +40,7 @@ Place files inside the `data/` folder.
 ### ✅ 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/qa-bot.git
+git clone https://github.com/aiqualitylab/AI-QA-Assistant-Bot
 cd qa-bot
 ```
 
@@ -117,3 +117,4 @@ qa-bot/
 - LangChain
 - OpenAI API
 - FAISS Vector Search
+
